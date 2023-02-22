@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose and functionality of this app it to create an easy and useful too for categorizing all of the employees and their roles in the workspace. This too not only allows you to build teams but also stay connected with them by getting all of their contact information bundled with their identification card of the web page. Check out the app today!
+The purpose and functionality of this app is to create an easy and useful too for categorizing all of the employees and their roles in the workspace. This too not only allows you to build teams but also stay connected with them by getting all of their contact information bundled with their identification card of the web page. Check out the app today!
 
 ## Table of Contents
 
